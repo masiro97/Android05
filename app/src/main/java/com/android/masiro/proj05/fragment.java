@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 /**
- * Created by haeyoung on 2017-03-30. fragment
+ * Created by haeyoung on 2017-03-30.
  */
 
 
